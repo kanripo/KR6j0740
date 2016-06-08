@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:38:53.507293
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:51
 #+TITLE: 明佛法根本碑
 #+PROPERTY: CBETA_ID T46n1954
 #+PROPERTY: ID KR6j0740
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1954
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0740_T_000-0988b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0740_T_001-0988b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1954¶
-
- 明佛法根本碑¶
+No. 1954¶
+明佛法根本碑¶
 ¶
 大興善寺大曼拏攞¶
 阿闍梨三藏智慧論述¶
@@ -77,9 +76,9 @@ No.1954¶
 　分明了了
 　月滿珠圓¶
 　普周無盡
-　利樂隨緣
+　利樂隨緣」
 #+END_VERSE
-」¶
+¶
 
 此教有十萬誐他。灌頂傳受。乃至一切如來¶
 三密內證同體加持。一一修行。從師指授。發¶
